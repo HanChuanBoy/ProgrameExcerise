@@ -16,5 +16,6 @@ int main()
    句柄是一种指向指针的指针,但是句柄里面的值是不会变化的;
    线程函数参数;
 runing error:
+jichu:10 is ok when a is a vaild address;
 
 */
